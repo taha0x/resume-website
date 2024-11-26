@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Resume</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Taha Mohammadi</h1>
+    <p>Your Title (Software engineer)</p>
+  </header>
+
+  <main>
+    <section id="about">
+      <h2>About Me</h2>
+      <p>A Im Taha Mohammadi.Junior Java and kotlin developer.Im 22 and i live in Iran.I do have passion aboute vast computer world. </p>
+    </section>
+
+    <section id="skills">
+      <h2>Skills</h2>
+      <ul>
+        <li>Java</li>
+        <li>Python 2</li>
+        <li>Kotlin 3</li>
+        <!-- Add more as needed -->
+      </ul>
+    </section>
+
+    <section id="experience">
+      <h2>Experience</h2>
+      <div>
+        <h3>None</h3>
+        <p>None</p>
+        <p>A None</p>
+      </div>
+      <!-- Add more experience blocks as needed -->
+    </section>
+
+    <section id="contact">
+      <h2>Contact</h2>
+      <p>Email: <a href="mailto:taha0x.net@gmail.com">your-email@example.com</a></p>
+      <p>Telegram: <a href="https://t.me/Taha0x" target="_blank">your-profile</a></p>
+      <!-- Add other social links if needed -->
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; it always starts with print("hellow world") :) </p>
+  </footer>
+</body>
+</html>
